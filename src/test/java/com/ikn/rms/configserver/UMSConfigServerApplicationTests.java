@@ -1,4 +1,4 @@
-package com.ikn.ums.configserver;
+package com.ikn.rms.configserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
