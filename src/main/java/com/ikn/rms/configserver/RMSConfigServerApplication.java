@@ -1,4 +1,4 @@
-package com.ikn.ums.configserver;
+package com.ikn.rms.configserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -8,10 +8,10 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 @SpringBootApplication
 @EnableEurekaClient
 @EnableConfigServer
-public class UMSConfigServerApplication {
+public class RMSConfigServerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(UMSConfigServerApplication.class, args);
+		SpringApplication.run(RMSConfigServerApplication.class, args);
 	}
 
 }
