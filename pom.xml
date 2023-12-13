@@ -8,10 +8,10 @@
 		<version>2.7.15</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.ikn.ums.configserver</groupId>
+	<groupId>com.ikn.rms.configserver</groupId>
 	<artifactId>rms-config-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ums-config-server</name>
+	<name>rms-config-server</name>
 	<description>RMS Config Server</description>
 	<properties>
 		<java.version>11</java.version>
